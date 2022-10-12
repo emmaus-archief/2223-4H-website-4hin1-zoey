@@ -33,13 +33,13 @@ header, footer {                  /* geldt voor header en footer */
 main {                       
   text-align: justify;            /* tekst uitvullen */}
 
-h1, h2 {                      /* geldt voor h1 en h2 en*/
+h1, h2 {                      /* geldt voor h1 en h2*/
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
 } 
 h3 {
-  margin: 10px 0px;              /* geldt voor h3*/
-  border-top: medium none
+  margin: 30px 0px;              /* geldt voor h3*/
+  
 }
 
 p {
