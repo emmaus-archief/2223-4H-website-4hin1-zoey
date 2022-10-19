@@ -31,20 +31,22 @@ header, footer {                  /* geldt voor header en footer */
 }
 
 main {                       
-  text-align: justify;            /* tekst uitvullen */}
+  text-align: justify;            /* tekst uitvullen */
 
+}
 h1, h2 {                      /* geldt voor h1 en h2*/
   margin: 10px 0px;
   text-align: center;             /* tekst centreren */
 } 
-h3 {
-  margin: 30px 0px;              /* geldt voor h3*/
+h3 {                             /* geldt voor h3*/
+  margin: 30px 0px;
   
 }
 
 p {
-  margin: 10px 0px;
-  text-align: justify;            /* tekst links en rechts uitvullen */
+  margin: 10px 10px;
+  text-align: justify;          
+  border-top: 20px;
 }
 
 /* Indeling voor hoofd pagina */
