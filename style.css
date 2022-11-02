@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color:#8C0101;    /* achtergrondkleur */
-  color: #E98D01;               /* tekstkleur */
+  background-color:#606060;    /* achtergrondkleur */
+  color: #F19736;               /* tekstkleur */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -34,12 +34,11 @@ main {
   text-align: justify;            /* tekst uitvullen */
 
 }
-h1, h2 {                      /* geldt voor h1 en h2*/
+h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
+  color:#F19736
   margin: 10px;
   text-align:center;             /* tekst centreren */
-} 
-h3 {                             /* geldt voor h3*/
-  margin: 30px 0px;
+
   
 }
 
@@ -63,16 +62,12 @@ p {
 .kolomStop {
   clear:both;                   /* stop met floaten */
 }
-.menu {
-  text-align:center;
-  height:400px;
-  width:600px;
-}
+
 
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: 4;
+      color:#F18919;
 }
 
 .smalltext {
@@ -81,7 +76,7 @@ h1, h2, h3 {
 }
 
 a {
-    color:#E98D09;
+    color:#F19736;
     text-decoration: none;
 }
 
@@ -89,6 +84,9 @@ a:hover {
     text-decoration: underline;
 }
 
+.karasuno {
+  background-color:#ad3e00
+}
 
 
 /* Navigatiebalk voor alle pagina's */
@@ -96,7 +94,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color:#580401;
+    background-color:#232323;
     overflow: hidden;
 }
 
@@ -106,18 +104,18 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: #E98D15;
+    color: #ffffff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #370200;
+    background-color: #ad3e00;
     color:white
 }
 
 
 nav li a.active {
-    background-color:#4F0300;
+    background-color:#d95000;
 }
