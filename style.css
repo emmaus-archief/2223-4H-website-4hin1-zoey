@@ -84,8 +84,11 @@ a:hover {
     text-decoration: underline;
 }
 
+.blacktext {
+  color:#000000
+}
 .karasuno {
-  background-color:#ad3e00
+  background-color:#DC7100
 }
 
 
