@@ -37,12 +37,10 @@ main {
 h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
   color:#F19736
   margin: 10px;
-  text-align:center;             /* tekst centreren */
-
-  
+  text-align:center;             /* tekst centreren */  
 }
 
-p {
+.p {
   margin: 10px 10px;
   text-align: justify;          
   border-top: 20px;
@@ -87,11 +85,14 @@ a:hover {
 .blacktext {
   color:#000000
 }
+
 .karasuno {
   background-color:#DC7100
 }
 
-
+.left {
+  float:right;
+}
 /* Navigatiebalk voor alle pagina's */
 nav ul {
     list-style-type: none;
