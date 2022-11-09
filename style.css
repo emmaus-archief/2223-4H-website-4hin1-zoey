@@ -86,7 +86,6 @@ a:hover {
 }
 .blacktext {
   color:#000000;
-  border-right-width:20px;
 }
 
 .karasuno {
@@ -95,6 +94,17 @@ a:hover {
 
 .left {
   float:left;
+}
+
+/* Opmaak voor karasuno pagina */
+img {
+  width:100px;
+  height:100px;
+}
+.character {
+  width:125px;
+  float:left;
+
 }
 /* Navigatiebalk voor alle pagina's */
 nav ul {
