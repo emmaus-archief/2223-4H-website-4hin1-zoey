@@ -46,7 +46,11 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
   border-top: 20px;
 }
 
-/* Indeling voor hoofd pagina */
+.kopje {
+  background-color: #FAFAFA;
+  text-align: center;
+  font-weight:bold;
+}
 
 .kolomLinks {
   float:left;
@@ -68,11 +72,6 @@ h1, h2, h3 {
       color:#F18919;
 }
 
-.smalltext {
-    text-align: center;
-    font-size: 0.7em;
-}
-
 a {
     color:#F19736;
     text-decoration: none;
@@ -82,8 +81,12 @@ a:hover {
     text-decoration: underline;
 }
 
+.whitetext {
+  color:#FAFAFA
+}
 .blacktext {
-  color:#000000
+  color:#000000;
+  border-right-width:20px;
 }
 
 .karasuno {
@@ -91,7 +94,7 @@ a:hover {
 }
 
 .left {
-  float:right;
+  float:left;
 }
 /* Navigatiebalk voor alle pagina's */
 nav ul {
