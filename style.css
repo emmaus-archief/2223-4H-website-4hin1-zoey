@@ -47,7 +47,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
 }
 
 .kopje {
-  color:#F19736;
+  color:#000000;
   background-color: #FAFAFA;
   text-align: center;
   font-weight:bold;
@@ -91,7 +91,11 @@ a:hover {
 }
 .karasuno {
   color:#000000;
-  background-color:#DC7100
+  background-color:#DC7100;
+}
+.nekoma {
+  color:#000000;
+  background-color:#7f1a1a;
 }
 
 .left {
