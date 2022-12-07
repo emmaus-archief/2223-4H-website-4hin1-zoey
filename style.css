@@ -97,7 +97,10 @@ a:hover {
   color:#000000;
   background-color:#7f1a1a;
 }
-
+.johsai {
+  color:#000000;
+  background-color:#48aeb0;
+}
 .left {
   float:left;
 }
@@ -134,11 +137,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #ad3e00;
+    background-color: #CBCBCB;
     color:white
 }
 
 
 nav li a.active {
-    background-color:#d95000;
+    background-color:#757472;
 }
