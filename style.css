@@ -46,6 +46,8 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
   border-top: 20px;
 }
 
+
+
 .kopje {
   color:#000000;
   background-color: #FAFAFA;
@@ -63,7 +65,7 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
   width: 450px;
 }
 .kolomStop {
-  clear:both;                   /* stop met floaten */
+  clear:both;                  
 }
 
 
@@ -101,11 +103,15 @@ a:hover {
   color:#000000;
   background-color:#48aeb0;
 }
+
 .left {
   float:left;
 }
 
-/* Opmaak voor karasuno pagina */
+.bold {
+  font-weight: bold;
+}
+
 img {
   width:100px;
   height:100px;
@@ -114,6 +120,7 @@ img {
   width:120px;
   float:left;
 
+  
 }
 /* Navigatiebalk voor alle pagina's */
 nav ul {
