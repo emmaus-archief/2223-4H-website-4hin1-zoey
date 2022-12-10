@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color:#606060;    /* achtergrondkleur */
-  color: #F19736;               /* tekstkleur */
+  background-color:#ba8759  ;    /* achtergrondkleur */
+  color: #FAFAFA;               /* tekstkleur */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -72,11 +72,11 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color:#F18919;
+      color:#FAFAFA;
 }
 
 a {
-    color:#F19736;
+    color:#FAFAFA;
     text-decoration: none;
 }
 
