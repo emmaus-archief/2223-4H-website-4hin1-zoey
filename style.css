@@ -40,13 +40,17 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
   text-align:center;             /* tekst centreren */  
 }
 
+h4 {
+  color:#FAFAFA;
+  text-align:left;
+  font-size:25px;
+}
+
 .p {
   margin: 10px 10px;
   text-align: justify;          
   border-top: 20px;
 }
-
-
 
 .kopje {
   color:#000000;
@@ -71,17 +75,13 @@ h1, h2, h3 {                      /* geldt voor h1 en h2 en h3*/
 
 /* Opmaak voor alle pagina's */
 
-h1, h2, h3 {
-      color:#FAFAFA;
-}
-
 a {
     color:#FAFAFA;
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .whitetext {
@@ -118,10 +118,13 @@ img {
 }
 .character {
   width:120px;
-  float:left;
-
-  
+  float:left;  
 }
+.teamdiv {
+  padding:20px;
+}
+
+
 /* Navigatiebalk voor alle pagina's */
 nav ul {
     list-style-type: none;
