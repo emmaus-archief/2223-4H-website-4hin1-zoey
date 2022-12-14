@@ -131,10 +131,16 @@ img {
   height:180px;
   width:140px;
 }
+.teamfoto {
+  height:225px;
+  width:400px;
+  float:right;
+}
 #gamefoto {
   height:180px;
   width:160px;
 }
+
 /* Navigatiebalk voor alle pagina's */
 nav ul {
     list-style-type: none;
