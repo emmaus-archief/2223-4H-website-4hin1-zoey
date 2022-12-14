@@ -123,8 +123,18 @@ img {
 .teamdiv {
   padding-bottom:20px;
 }
-
-
+.medias {
+  width:160px;
+  float:left;
+}
+.mediafoto {
+  height:180px;
+  width:140px;
+}
+#gamefoto {
+  height:180px;
+  width:160px;
+}
 /* Navigatiebalk voor alle pagina's */
 nav ul {
     list-style-type: none;
