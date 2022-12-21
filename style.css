@@ -108,6 +108,9 @@ a:hover {
   float:left;
 }
 
+.right {
+  float:right;
+}
 .bold {
   font-weight: bold;
 }
@@ -127,6 +130,8 @@ img {
   width:160px;
   float:left;
 }
+
+ /* Foto's */
 .mediafoto {
   height:180px;
   width:140px;
@@ -139,6 +144,12 @@ img {
 #gamefoto {
   height:180px;
   width:160px;
+}
+.liberofoto {
+  float:right;
+  margin:20px;
+  height:240px;
+  width:260px;
 }
 
 /* Navigatiebalk voor alle pagina's */
