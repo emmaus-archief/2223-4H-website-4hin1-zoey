@@ -152,6 +152,12 @@ img {
   height:180px;
   width:260px;
 }
+.abthaikyuu {
+  float:right;
+  height:280px;
+  width:220px;
+  margin-right:80px;
+}
 
 /* Navigatiebalk voor alle pagina's */
 nav ul {
