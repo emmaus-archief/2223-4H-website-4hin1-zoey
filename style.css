@@ -156,9 +156,14 @@ img {
   float:right;
   height:280px;
   width:220px;
-  margin-right:80px;
+  margin-right:60px;
 }
-
+.kagehinameet {
+  float:right;
+  height:180px;
+  width:140px;
+  margin:20px;
+}
 /* Navigatiebalk voor alle pagina's */
 nav ul {
     list-style-type: none;
